@@ -1,3 +1,2 @@
 git is a free soft!
-next line.
-:
+next line is zlf write.
